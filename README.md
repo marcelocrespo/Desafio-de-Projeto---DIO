@@ -13,4 +13,4 @@ Bootcamp: Geração Tech Unimed BH
  * [Introdução ao Git e ao GitHub](https://github.com/marcelocrespo/Desafio-de-Projeto---DIO/blob/main/Certificados%20de%20Conclusao/Introducao%20ao%20Git%20e%20ao%20GitHub.pdf) - Duração 5 horas
  * [Aula Inaugral - Ger Tech Unimed BH](https://github.com/marcelocrespo/Desafio-de-Projeto---DIO/blob/main/Certificados%20de%20Conclusao/Aula%20Inaugural%20-%20Ger%20Tech%20Unimed%20BH.pdf) - Duração 2 horas
  * [Criando Primeiro Repositório GitHub](https://github.com/marcelocrespo/Desafio-de-Projeto---DIO/blob/main/Certificados%20de%20Conclusao/Criando%20Primeiro%20Repositorio%20GitHub.pdf) - Duração 1 hora
- * [Modulo 0] - Duração 5 horas
+ * [Modulo 0](https://github.com/marcelocrespo/Desafio-de-Projeto---DIO/blob/main/Certificados%20de%20Conclusao/Modulo%200.pdf) - Duração 5 horas
